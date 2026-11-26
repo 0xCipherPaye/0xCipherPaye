@@ -7,34 +7,34 @@
                    |_|                               |___/      
  // BINARY ANALYSIS · LOW-LEVEL · APPLIED CRYPTOGRAPHY
 
-# Security, Binary Analysis & Applied Cryptography Research
+ Security, Binary Analysis & Applied Cryptography Research
 
 Hello everyone! Here I want to publish research write-ups about cryptography in contexts that will be mostly related (or not) to software licensing and cryptovirology 
 while also making the low-level side stronger with write-ups about OS internals, classical games, and assembly always.
 
 
-## Track 1 : Low-Level (The Classics)
+ Track 1 : Low-Level (The Classics)
 
-### Binary Reversing & Protection Analysis
+ Binary Reversing & Protection Analysis
 *Reconstructing obfuscated control flow, software licensing/DRM checks, and native binaries.*
 
 ### Systems & Engine Internals
 *Memory allocators, fixed-point arithmetic, ABI details, and classic C/C++ codebase teardowns.*
 
 
-## Track 2: Applied Cryptography (Discovering and Hiding Secrets in the Machine)
+Track 2: Applied Cryptography (Discovering and Hiding Secrets in the Machine)
 
-### Cryptographic Primitives & Implementation Flaws
+ Cryptographic Primitives & Implementation Flaws
 *Executable PoCs demonstrating misuse of block ciphers, elliptic curves, and signature schemes.*
 
-### Privacy-Based Cryptography
+ Privacy-Based Cryptography
 *Anonymous eligibility, homomorphic encryption, and privacy-preserving governance prototypes.*
 
-### Software Licensing Architecture
+ Software Licensing Architecture
 *Security audits of custom key-generation, activation, and authentication protocols.*
 
 
-## Contact & Availability
+ Contact & Availability
 
 Open for brainstorming, mentoring, or quick chats!
 
