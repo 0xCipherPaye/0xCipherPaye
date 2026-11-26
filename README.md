@@ -16,22 +16,22 @@ while also making the low-level side stronger with write-ups about OS internals,
  Track 1 : Low-Level (The Classics)
 
  Binary Reversing & Protection Analysis
-*Reconstructing obfuscated control flow, software licensing/DRM checks, and native binaries.*
+   Reconstructing obfuscated control flow, software licensing/DRM checks, and native binaries.*
 
-### Systems & Engine Internals
-*Memory allocators, fixed-point arithmetic, ABI details, and classic C/C++ codebase teardowns.*
+ Systems & Engine Internals
+   Memory allocators, fixed-point arithmetic, ABI details, and classic C/C++ codebase teardowns.*
 
 
 Track 2: Applied Cryptography (Discovering and Hiding Secrets in the Machine)
 
  Cryptographic Primitives & Implementation Flaws
-*Executable PoCs demonstrating misuse of block ciphers, elliptic curves, and signature schemes.*
+   Executable PoCs demonstrating misuse of block ciphers, elliptic curves, and signature schemes.*
 
  Privacy-Based Cryptography
-*Anonymous eligibility, homomorphic encryption, and privacy-preserving governance prototypes.*
+   Anonymous eligibility, homomorphic encryption, and privacy-preserving governance prototypes.*
 
  Software Licensing Architecture
-*Security audits of custom key-generation, activation, and authentication protocols.*
+   Security audits of custom key-generation, activation, and authentication protocols.*
 
 
  Contact & Availability
