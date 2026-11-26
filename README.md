@@ -1,3 +1,5 @@
+<div align="center">
+
 ```text
   ___       ____ _       _               ____                  
  / _ \__  _/ ___(_)_ __ | |__   ___ _ __|  _ \ __ _ _   _  ___ 
@@ -5,7 +7,8 @@
 | |_| |>  <| |___| | |_) | | | |  __/ |  |  __/ (_| | |_| |  __/
  \___//_/\_\\____|_| .__/|_| |_|\___|_|  |_|   \__,_|\__, |\___|
                    |_|                               |___/      
- // BINARY ANALYSIS · LOW-LEVEL · APPLIED CRYPTOGRAPHY
+ // BINARY ANALYSIS · LOW-LEVEL SYSTEMS · APPLIED CRYPTOGRAPHY
+
 
  Security, Binary Analysis & Applied Cryptography Research
 
